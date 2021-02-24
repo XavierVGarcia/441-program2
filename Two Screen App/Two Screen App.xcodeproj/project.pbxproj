@@ -16,6 +16,7 @@
 		D548A36525E408A0008D4F8B /* Two_Screen_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D548A36425E408A0008D4F8B /* Two_Screen_AppTests.swift */; };
 		D548A37025E408A0008D4F8B /* Two_Screen_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D548A36F25E408A0008D4F8B /* Two_Screen_AppUITests.swift */; };
 		D55B4D5B25E6A0A700DB5056 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55B4D5A25E6A0A700DB5056 /* SecondViewController.swift */; };
+		D55B4D6025E6A85D00DB5056 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D55B4D5F25E6A85D00DB5056 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D548A36F25E408A0008D4F8B /* Two_Screen_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Two_Screen_AppUITests.swift; sourceTree = "<group>"; };
 		D548A37125E408A0008D4F8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D55B4D5A25E6A0A700DB5056 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		D55B4D5F25E6A85D00DB5056 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D548A35125E40899008D4F8B /* ViewController.swift */,
 				D55B4D5A25E6A0A700DB5056 /* SecondViewController.swift */,
 				D548A35325E4089A008D4F8B /* Main.storyboard */,
+				D55B4D5F25E6A85D00DB5056 /* ThirdViewController.swift */,
 				D548A35625E4089F008D4F8B /* Assets.xcassets */,
 				D548A35825E4089F008D4F8B /* LaunchScreen.storyboard */,
 				D548A35B25E4089F008D4F8B /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				D55B4D5B25E6A0A700DB5056 /* SecondViewController.swift in Sources */,
 				D548A35225E40899008D4F8B /* ViewController.swift in Sources */,
+				D55B4D6025E6A85D00DB5056 /* ThirdViewController.swift in Sources */,
 				D548A34E25E40899008D4F8B /* AppDelegate.swift in Sources */,
 				D548A35025E40899008D4F8B /* SceneDelegate.swift in Sources */,
 			);
